@@ -19,8 +19,8 @@ This project is a **macOS reimplementation of the [TorrServe](https://github.com
 
 ## Requirements
 
-- macOS 26.2 (Tahoe) or later
-- Xcode 16 or later (Swift 5)
+- macOS 14 (Sonoma) or later
+- Xcode 26 or later (Swift 5)
 - A running [TorrServer](https://github.com/YouROK/TorrServer) instance (defaults to `http://127.0.0.1:8090`)
 
 ## Building
