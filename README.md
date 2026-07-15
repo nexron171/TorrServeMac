@@ -1,5 +1,7 @@
 # TorrServeMac
 
+[![CI](https://github.com/nexron171/TorrServeMac/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/nexron171/TorrServeMac/actions/workflows/ci.yml)
+
 A native macOS client for [TorrServer](https://github.com/YouROK/TorrServer), built with SwiftUI. Manage your torrents and stream media straight into your favourite player — VLC, IINA, QuickTime, or anything else on your Mac.
 
 This project is a **macOS reimplementation of the [TorrServe](https://github.com/YouROK/TorrServe) Android client** by YouROK — the same feature set and workflow, rebuilt as a native Mac app. It talks to the same [TorrServer](https://github.com/YouROK/TorrServer) backend.
